@@ -1,4 +1,27 @@
-https://github.com/SarveshMantri/Contact-App/blob/main/screenshot%20and%20video/2023-07-08%2011-42-44.mkv
+
+![Screenshot_1688796183](https://github.com/SarveshMantri/Contact-App/assets/81086025/8a84aeb2-b044-4b6d-a60e-71ae8cd88fbf)
+![Screenshot_1688796215](https://github.com/SarveshMantri/Contact-App/assets/81086025/12d5c8b6-8575-48e2-ace3-3ab41dc0b5df)
+![Screenshot_1688796221](https://github.com/SarveshMantri/Contact-App/assets/81086025/42c70dcc-9973-4c4b-b8a8-470676660ae2)
+![Screenshot_1688796227](https://github.com/SarveshMantri/Contact-App/assets/81086025/66b389bc-d27b-44f9-bcd8-3f64a6c697ca)
+![Screenshot_1688796304](https://github.com/SarveshMantri/Contact-App/assets/81086025/a1891a4b-6cf2-4668-a0c6-15f221148b44)
+![Screenshot_1688796328](https://github.com/SarveshMantri/Contact-App/assets/81086025/e00819ce-9678-40fb-bed7-5d43b1b7ef80)
+![Screenshot_1688796333](https://github.com/SarveshMantri/Contact-App/assets/81086025/0f3c5ea5-43fc-4ae0-85cd-62778dad9341)
+![Screenshot_1688796347](https://github.com/SarveshMantri/Contact-App/assets/81086025/08a3fba7-693d-4914-a9cf-a61e104f30c6)
+![Screenshot_1688796358](https://github.com/SarveshMantri/Contact-App/assets/81086025/20b6f797-f984-4b96-b2a4-82421224dc7b)
+![Screenshot_1688796392](https://github.com/SarveshMantri/Contact-App/assets/81086025/ef1e088e-cc44-4c11-a2a0-27528c52be43)
+![Screenshot_1688796397](https://github.com/SarveshMantri/Contact-App/assets/81086025/55f2db83-5bb7-42ef-808a-441a87918f88)
+![Screenshot_1688796406](https://github.com/SarveshMantri/Contact-App/assets/81086025/2b1f55c6-596f-49c5-a7c8-00426500b811)
+![Screenshot_1688796421](https://github.com/SarveshMantri/Contact-App/assets/81086025/37a3fff9-1c29-4499-ade1-bd15263199e9)
+![Screenshot_1688796428](https://github.com/SarveshMantri/Contact-App/assets/81086025/5a47570f-0eb2-444e-bfa7-378f7861d844)
+![Screenshot_1688796475](https://github.com/SarveshMantri/Contact-App/assets/81086025/e31aa958-f2bc-4516-bca9-a541a79b9625)
+![Screenshot_1688796490](https://github.com/SarveshMantri/Contact-App/assets/81086025/77f9b8bd-2a47-4f0d-83c6-3fc93ba0d700)
+![Screenshot_1688796494](https://github.com/SarveshMantri/Contact-App/assets/81086025/7fefdf33-bd6e-4fe1-9d9b-dd5b3c8c3bc7)
+![Screenshot_1688796499](https://github.com/SarveshMantri/Contact-App/assets/81086025/76c54d87-6065-4f98-a7a7-460ae709d8fb)
+![Screenshot_1688796507](https://github.com/SarveshMantri/Contact-App/assets/81086025/17681308-27a9-43dd-9541-916c12c71ad2)
+![Screenshot_1688796512](https://github.com/SarveshMantri/Contact-App/assets/81086025/441a1792-01bd-46ff-8f4b-954d26d515db)
+
+
+
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
